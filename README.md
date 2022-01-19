@@ -1,2 +1,2 @@
-# Repositório Curso DIO - Desafio Github
-Desafio de projeto sobre Github - Curso DIO - Digital Innovation One
+# DIO - Desafio de projeto sobre Git/Github
+Repositório criado para o  Desafio sobre Git/Github do Curso da Digital Innovation One
